@@ -1,1 +1,1 @@
-native linux wechat
+Norman's personal Gentoo Repository
